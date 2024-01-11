@@ -1,7 +1,7 @@
 <h1 align="center">
   💻<br>Portfólio - Kimberly Ferreira
 </h1>
-![Resultado final do projeto](images/preview.png)
+
 ## 📚 Seções
 
 O site é composto por seis seções:
