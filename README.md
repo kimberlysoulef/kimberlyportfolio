@@ -1,6 +1,7 @@
 <h1 align="center">
   💻<br>Portfólio - Kimberly Ferreira
 </h1>
+Projeto de desenvolvimento de página de portfólio. Este projeto foi uma oportunidade incrível para aprimorar minhas habilidades em design e programação web. Utilizei tecnologias como HTML, CSS e JavaScript para construir uma interface interativa e amigável. Adaptei o template original para atender às minhas necessidades específicas, personalizando seções e adicionando recursos exclusivos que destacam minha identidade profissional.
 
 ## 📚 Seções
 
@@ -40,3 +41,4 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     </td>
   </tr>
 </table>
+--          A página de portfólio resultante apresenta de forma dinâmica meus projetos, habilidades e experiência. Utilizando como base, template já existente.
